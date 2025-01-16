@@ -1,14 +1,53 @@
-# Calculator-App
-This is my Bharat Intern App Development Internship Task - 1 of making a Calculator App. This app is made in Java programming language using Android Studio.
+# Calculator App 📱➗✖️
 
-If you want to run this app in your system then you can directly clone the repository in your system and then open that cloned repository folder in Android Studio and then you can run the app in Android Studio Mobile Phone Emulator by clicking on run button. \
-\
-or \
-\
-If you want to run this app on your physical mobile phone then instead of cloning the whole repository just download the .apk file named "Calculator.apk" listed above and then run it by simply clicking on it in your mobile phone, your phone might block its installation as this application is getting installed from outside of the Play Store but don't worry it is totally safe just give it necessary permissions to run and install and after installation you can simply use it like any other app you use in your mobile phone.
+Welcome to the **Calculator App**! This Android application is designed to perform basic arithmetic operations with ease, providing a user-friendly interface and reliable performance. Built entirely in Java using Android Studio, this app is both functional and efficient.
 
-# Screenshots of the App:-
+## 🚀 Features
+
+- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division seamlessly.
+- **User-Friendly Interface**: Simple and intuitive design for a smooth user experience.
+- **Lightweight**: Optimized for performance, ensuring quick and reliable calculations.
+
+## 🛠 Technologies Used
+
+- **Java**: 100% of the project
+
+## 📚 Getting Started
+
+To get started with the Calculator App, follow these steps:
+
+### Clone the Repository
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/ALAG11/Calculator-App.git
+    ```
+2. **Open in Android Studio**:
+    - Navigate to the cloned repository folder.
+    - Open the project in Android Studio.
+    - Build and run the app in an emulator or physical device.
+
+### Install the APK
+
+Alternatively, you can directly install the APK on your Android device:
+
+1. **Download the APK**:
+    - Download the `Calculator.apk` file from the repository.
+2. **Install the APK**:
+    - Transfer the APK file to your Android device.
+    - Open the file and follow the on-screen instructions to install.
+
+## 📸 Screenshots of the App:-
 ![Calculator App 1](https://github.com/ALAG11/Bharat-Intern-App-Development-Task-1-Calculator-App/assets/96953120/496e48e2-9eaf-4488-b404-cbd96688dc9d)
 
 ![Calculator App](https://github.com/ALAG11/Bharat-Intern-App-Development-Task-1-Calculator-App/assets/96953120/10feaf95-60b9-487e-a9e9-f13c80f1b16b)
 
+## 🤝 Contributing
+
+Contributions are welcome! If you have improvements or new features to add, feel free to open an issue or submit a pull request.
+
+## 🌟 Show Your Support
+
+Give a ⭐️ if you like this project and find it helpful!
+
+---
